@@ -1,4 +1,4 @@
-var inputTextBox = document.getElementById("inputText")
+var inputTextBox = document.querySelector(".inputText")
 
 var translateButton = document.querySelector(".translate__button");
 

@@ -23,6 +23,7 @@ body{
     height: 10rem;
     margin: 2rem;
     border-radius: 1rem;
+    font-size: 2rem;
 }
 
 .header__heading{
@@ -50,4 +51,5 @@ body{
     height: 10rem;
     margin: auto;
     border-radius: 2rem;
+    font-size: 2rem;
 }
