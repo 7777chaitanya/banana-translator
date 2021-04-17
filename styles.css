@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&display=swap');
+
+
+:root{
+    --primary-color: #FCD34D;
+}
+body{
+    font-family: 'Antonio', sans-serif;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border: 0.2rem dotted var(--primary-color);
+}
+.header{
+    background-color: black
+    
+}
+
+.inputText{
+    width: 40rem;
+    height: 10rem;
+    margin: 2rem;
+    border-radius: 1rem;
+}
+
+.header__heading{
+    color: var(--primary-color);
+
+}
+
+.translate__button{
+    background-color: black;
+    border: 0.1rem solid var(--primary-color);
+    color: var(--primary-color);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3rem;
+    border-radius: 1rem;
+    cursor: pointer;
+  }
+
+.output__box{
+    border: 0.1rem solid var(--primary-color);
+    width: 40rem;
+    height: 10rem;
+    margin: auto;
+    border-radius: 2rem;
+}
